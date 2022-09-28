@@ -1,0 +1,12 @@
+<template>
+  <Calculator />
+</template>
+
+<script lang="ts">
+import Vue from 'vue'
+
+export default Vue.extend({
+  name: 'CalculatorPage',
+})
+</script>
+
